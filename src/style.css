@@ -1,5 +1,7 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
+  min-height: 100vh;
+  padding: 1em;
 }
 
 .trigger {
